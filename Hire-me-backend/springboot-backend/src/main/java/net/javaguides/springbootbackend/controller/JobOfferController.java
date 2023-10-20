@@ -35,21 +35,22 @@ public class JobOfferController {
         return jobOfferRepository.findAll();
     }
 
-    /*public List<JobOffer> getJobOffersByEmployee(@PathVariable Long employeeId) {
+    @GetMapping("/employee/{employeeId}")
+    public List<JobOffer> getJobOffersByEmployee(@PathVariable Long employeeId) {
         // Find the employee by ID first
         Employee employee = employeeRepository.findById(employeeId)
                 .orElseThrow(() -> new EntityNotFoundException("Employee not found with ID: " + employeeId));
 
         // Retrieve job offers related to the employee
         return jobOfferRepository.findByEmployee(employee);
-    }*/
-    @GetMapping("/employee/{employeeId}")
-    public ResponseEntity<Employee> getJobOffersByEmployee(@PathVariable Long employeeId) {
+    }
+
+   /* public ResponseEntity<Employee> getJobOffersByEmployee(@PathVariable Long employeeId) {
         // Find the employee by ID first
         Employee employee = employeeRepository.findById(employeeId)
                 .orElseThrow(() -> new EntityNotFoundException("Employee not found with ID: " + employeeId));
 
         // Retrieve job offers related to the employee
         return ResponseEntity.ok(employee);
-    }
+    }*/
 }

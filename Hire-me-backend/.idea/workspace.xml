@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aad60f0-5ae6-4093-bce1-f4627d91a6d5" name="Changes" comment="" />
+    <list default="true" id="0aad60f0-5ae6-4093-bce1-f4627d91a6d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/controller/JobOfferController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/controller/JobOfferController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,7 +42,8 @@
     "Notification.DoNotAsk-Plugins Suggestion": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/springboot-backend"
+    "git-widget-placeholder": "feature/#1-intiale-Project-Springboot",
+    "last_opened_file_path": "D:/github desk/Hire-me-backend"
   }
 }]]></component>
   <component name="RunManager">
