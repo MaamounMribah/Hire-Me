@@ -1,5 +1,6 @@
 package net.javaguides.springbootbackend.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
 import java.util.List;
@@ -19,6 +20,7 @@ public class Employee {
     private String emailId;
 
     @OneToMany(mappedBy = "employee")
+    @JsonIgnore
     private List<JobOffer> jobOffers;
 
    public Employee(){

@@ -19,7 +19,7 @@ public class JobOffer {
     private String userPub;
 
     @ManyToOne
-    @JoinColumn(name = "employee_id")
+    @JoinColumn(name = "id")
     private Employee employee;
 
     public JobOffer(){
