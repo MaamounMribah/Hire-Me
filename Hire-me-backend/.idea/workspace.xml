@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aad60f0-5ae6-4093-bce1-f4627d91a6d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Hire-me-backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/controller/HelloWorldController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/model/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/model/JobOffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/model/JobOffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-backend/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;feature/#2-create-joboffer-api&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/github desk/Hire-me-backend&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/9raya/3éme/TBS/PM&quot;
   }
 }</component>
   <component name="RunManager">
