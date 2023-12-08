@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aad60f0-5ae6-4093-bce1-f4627d91a6d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/controller/HelloWorldController.java" afterDir="false" />
+    <list default="true" id="0aad60f0-5ae6-4093-bce1-f4627d91a6d5" name="Changes" comment="problem dataBase connection fixed">
+      <change afterPath="$PROJECT_DIR$/springboot-backend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-backend/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-backend/src/main/java/net/javaguides/springbootbackend/controller/EmployeeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,12 @@
     &quot;last_opened_file_path&quot;: &quot;D:/9raya/3éme/TBS/PM&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github desk\Hire-me-backend\springboot-backend" />
+      <recent name="D:\github desk\Hire-me-backend" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="SpringbootBackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.javaguides.springbootbackend.SpringbootBackendApplication" />
@@ -76,7 +84,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697318865110</updated>
     </task>
+    <task id="LOCAL-00001" summary="problem dataBase connection fixed">
+      <option name="closed" value="true" />
+      <created>1701990350353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701990350353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="problem dataBase connection fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem dataBase connection fixed" />
   </component>
 </project>
